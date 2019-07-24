@@ -1,0 +1,32 @@
+_repo: La-pata-de-la-raposa-Novela_59925
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pérez de Ayala, Ramón
+    aliases:
+    - Ayala, Ramón Pérez de
+    - Cuevas, Plotino
+    - De Ayala, Ramón Pérez
+    - Perez de Ayala, Ramon
+    birthdate: 1880
+    deathdate: 1962
+    gutenberg_agent_id: '5470'
+    url: http://www.gutenberg.org/2009/agents/5470
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Ram%C3%B3n_P%C3%A9rez_de_Ayala
+    - https://en.wikipedia.org/wiki/Ram%C3%B3n_P%C3%A9rez_de_Ayala
+description: ''
+gutenberg_issued: '2019-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59925'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: La pata de la raposa (Novela)
+url: http://www.gutenberg.org/ebooks/59925
